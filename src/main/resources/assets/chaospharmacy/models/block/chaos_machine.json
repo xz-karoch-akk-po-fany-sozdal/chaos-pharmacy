@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "chaospharmacy:block/chaos_machine_top",
+    "bottom": "chaospharmacy:block/chaos_machine_bottom",
+    "side": "chaospharmacy:block/chaos_machine_side"
+  }
+}

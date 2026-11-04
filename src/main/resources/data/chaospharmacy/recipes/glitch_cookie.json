@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:cocoa_beans"
+    },
+    {
+      "item": "chaospharmacy:chaos_shard"
+    }
+  ],
+  "result": {
+    "item": "chaospharmacy:glitch_cookie",
+    "count": 2
+  }
+}

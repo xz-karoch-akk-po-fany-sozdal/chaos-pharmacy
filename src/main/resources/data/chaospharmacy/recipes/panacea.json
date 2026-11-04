@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "chaospharmacy:cure_pill"
+    },
+    {
+      "item": "chaospharmacy:cure_pill"
+    },
+    {
+      "item": "chaospharmacy:cure_pill"
+    },
+    {
+      "item": "chaospharmacy:cure_pill"
+    },
+    {
+      "item": "minecraft:golden_apple"
+    },
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "result": {
+    "item": "chaospharmacy:panacea",
+    "count": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "chaospharmacy",
+  "version": "${version}",
+  "name": "Chaos Pharmacy",
+  "description": "Аптека хаоса: таблетки, кости, автомат, события и предохранитель для Disabilities и Upgrader. / Pills, dice, vending machine, random events and a fuse for Disabilities and Upgrader.",
+  "authors": [
+    "Claude",
+    "ChatGPT (ideas)",
+    "Gemini (ideas)"
+  ],
+  "license": "MIT",
+  "icon": "assets/chaospharmacy/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.chaospharmacy.ChaosPharmacy"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "disabilities": "*",
+    "upgrader": "*"
+  }
+}
